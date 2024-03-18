@@ -1,0 +1,36 @@
+body{
+    background-color:black ;
+}
+h1{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: brown;
+    max-width: 70%;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    margin-top: 130px
+}
+.btn-colo{
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right:15px;
+    margin-bottom:20px;
+
+}
+.btn-colo.hover{
+    background-color: rgb(red, green, blue);
+    color:white ;
+    cursor:pointer;
+    transition:
+}
+.btn-ude{
+    background-color:blue;
+    color: white;
+    border-radius: .3;
+    padding: 10px 15px 10px 15px;
+    
+
+}
